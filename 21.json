@@ -1,0 +1,46 @@
+{
+  "code": 0,
+  "message": "تم بنجاح",
+  "book": {
+    "id": "21",
+    "name": "الدكتور احمد زويل",
+    "cover": "https://images.media.iqraaly.com:444//users/1/shows/21_1353657526.jpg",
+    "author_id": "",
+    "author": "",
+    "publisher_name": "",
+    "about": "",
+    "is_paid": "0",
+    "is_brief": "0",
+    "narrator_id": "14",
+    "progress_bar": {
+      "total_episodes": 1,
+      "played_episodes": 0,
+      "percentage": 0
+    },
+    "is_favoured": "0",
+    "narrator_name": "نور الدين محمود",
+    "rate": 0,
+    "rate_count": 0,
+    "narrator_rate": 0,
+    "book_rate": 0,
+    "duration_in_seconds": 1565,
+    "size_in_bytes": 0,
+    "episodes": [
+      {
+        "id": "159",
+        "title": "مصر الأمل .. ثلاثية الرؤية",
+        "show_id": 21,
+        "description": "بصوت : نور الدين محمود\n        \n        تاريخ النشر : الاحد 15 مايو 2011\n                \n                المصدر : http://www.shorouknews.com/contentdata.aspx?id=455702",
+        "file": "https://stream.iqraaly.com/v1/stream-start/b9XveWo21Qjr0MGDwpLx",
+        "duration": "1565",
+        "image": "https://images.media.iqraaly.com:444//users/1/shows/21_1353657526.jpg",
+        "size": "0",
+        "is_paid": "0",
+        "position": "159",
+        "episode_type_id": 4,
+        "book_name": "الدكتور احمد زويل"
+      }
+    ]
+  },
+  "lists": []
+}
